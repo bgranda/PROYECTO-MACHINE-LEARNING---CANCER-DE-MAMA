@@ -1,0 +1,806 @@
+Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tumor Size,Estrogen Status,Progesterone Status,Regional Node Examined,Reginol Node Positive
+45,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,24,1
+61,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,8,1
+61,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,28,Positive,Negative,32,5
+40,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,14,5
+45,White,Married,T1,N1,IIA,Well differentiated,1,Regional,14,Positive,Positive,13,1
+46,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,20,Positive,Positive,11,3
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,43,Positive,Positive,13,1
+46,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,60,Positive,Positive,15,3
+38,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,50,Positive,Positive,36,33
+53,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,12,5
+62,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,70,Positive,Positive,8,4
+69,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,14,3
+69,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,11,2
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,3,1
+44,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,24,2
+50,White,Married,T2,N1,IIB,Well differentiated,1,Regional,45,Positive,Positive,12,2
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,36,Positive,Positive,30,3
+52,Black,Married,T1,N1,IIA,Well differentiated,1,Regional,8,Positive,Positive,18,1
+61,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,20,1
+60,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,80,Positive,Positive,12,2
+51,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,21,3
+44,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,24,3
+59,White,Single ,T3,N1,IIIA,Moderately differentiated,2,Regional,70,Positive,Positive,9,1
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,4,3
+69,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,4,1
+55,Black,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Negative,4,1
+68,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,13,1
+41,Black,Divorced,T1,N1,IIA,Well differentiated,1,Regional,12,Positive,Positive,23,2
+40,White,Divorced,T1,N2,IIIA,Poorly differentiated,3,Regional,15,Positive,Positive,40,8
+47,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,84,Positive,Positive,3,1
+46,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Positive,25,1
+62,White,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,15,Positive,Positive,11,9
+40,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Negative,16,1
+39,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,37,2
+49,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Negative,14,1
+49,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Negative,Negative,12,1
+51,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,24,4
+69,Black,Divorced,T1,N3,IIIC,Moderately differentiated,2,Regional,19,Positive,Positive,21,19
+66,Other,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,9,1
+37,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,52,Positive,Positive,17,12
+44,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,22,Positive,Positive,15,2
+58,White,Widowed,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,17,5
+69,White,Widowed,T3,N1,IIIA,Poorly differentiated,3,Regional,60,Negative,Negative,4,2
+46,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,70,Positive,Positive,11,2
+69,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,43,Negative,Negative,9,4
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Negative,19,3
+60,Other,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,8,Positive,Positive,13,1
+56,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,7,2
+69,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,50,Positive,Positive,22,14
+58,Other,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,9,4
+54,White,Single ,T3,N3,IIIC,Poorly differentiated,3,Regional,120,Positive,Positive,11,10
+55,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,18,Positive,Negative,15,6
+54,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,8,1
+61,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,22,Positive,Positive,9,5
+62,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Negative,13,5
+44,White,Married,T1,N1,IIA,Well differentiated,1,Regional,9,Positive,Positive,13,1
+59,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,16,2
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,21,1
+59,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,7,3
+34,White,Married,T3,N3,IIIC,Moderately differentiated,2,Distant,60,Positive,Positive,13,9
+41,White,Married,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,12,1
+47,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,31,Positive,Positive,16,1
+65,White,Divorced,T3,N1,IIIA,Poorly differentiated,3,Regional,96,Positive,Negative,21,3
+49,White,Divorced,T2,N1,IIB,Well differentiated,1,Regional,37,Positive,Positive,16,4
+54,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,12,7
+69,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,4,1
+59,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,14,1
+42,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,4,2
+58,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,18,Positive,Positive,11,2
+66,Black,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Negative,10,1
+40,Black,Married,T1,N3,IIIC,Poorly differentiated,3,Regional,15,Positive,Positive,18,15
+54,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,24,Positive,Positive,15,3
+57,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Negative,8,7
+61,White,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,8,Positive,Positive,18,3
+68,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,22,Positive,Positive,9,2
+43,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Positive,13,6
+69,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,16,2
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,2,1
+49,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,130,Positive,Negative,12,8
+58,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,24,1
+52,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,12,Positive,Positive,9,1
+63,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,24,Positive,Positive,15,6
+58,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,46,Positive,Positive,9,9
+67,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,6,1
+62,White,Divorced,T2,N3,IIIC,Moderately differentiated,2,Regional,35,Positive,Positive,16,14
+53,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,17,1
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,7,1
+57,Black,Divorced,T3,N3,IIIC,Poorly differentiated,3,Regional,130,Negative,Positive,10,10
+58,Other,Widowed,T2,N3,IIIC,Poorly differentiated,3,Regional,48,Negative,Negative,22,21
+58,White,Separated,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Negative,16,3
+40,White,Divorced,T4,N3,IIIC,Poorly differentiated,3,Regional,103,Positive,Positive,20,18
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,15,1
+45,Black,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,15,2
+52,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,15,2
+54,Other,Divorced,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,25,1
+48,Other,Married,T2,N3,IIIC,Poorly differentiated,3,Distant,38,Positive,Positive,17,1
+45,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,44,Positive,Positive,33,3
+38,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Negative,32,3
+45,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Negative,10,3
+68,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,31,1
+54,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,10,3
+49,White,Married,T2,N2,IIIA,Well differentiated,1,Regional,22,Positive,Positive,8,5
+61,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,1,1
+58,Black,Married,T1,N2,IIIA,Well differentiated,1,Regional,17,Positive,Positive,19,7
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,17,1
+35,Black,Married,T1,N1,IIA,Poorly differentiated,3,Regional,14,Negative,Negative,17,3
+43,Black,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,16,4
+43,White,Separated,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,17,9
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,2,1
+66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,14,2
+55,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Negative,Negative,3,1
+48,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,24,2
+50,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Negative,4,2
+51,Black,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,100,Positive,Negative,14,11
+64,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,9,4
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,26,1
+55,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,11,Positive,Positive,18,2
+57,White,Married,T4,N1,IIIB,Moderately differentiated,2,Distant,52,Positive,Positive,21,10
+59,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,13,3
+46,Other,Married,T2,N1,IIB,Well differentiated,1,Regional,43,Positive,Positive,22,1
+59,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,6,Positive,Negative,13,1
+46,White,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,5,1
+63,White,Married,T2,N1,IIB,Undifferentiated, anaplastic; Grade IV,Regional,25,Negative,Positive,10,2
+63,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,32,Positive,Positive,13,1
+69,White,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,16,3
+57,Black,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,51,Positive,Positive,8,1
+51,Black,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,14,3
+58,White,Married,T4,N1,IIIB,Moderately differentiated,2,Distant,76,Positive,Positive,16,3
+64,Black,Widowed,T2,N1,IIB,Poorly differentiated,3,Regional,37,Positive,Positive,1,1
+61,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,3,1
+66,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,17,3
+51,White,Married,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,11,1
+59,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,6,1
+54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Negative,14,1
+40,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,65,Positive,Positive,10,7
+65,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,38,Positive,Positive,3,3
+66,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,46,Positive,Negative,14,1
+55,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,16,2
+53,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,31,Positive,Positive,16,1
+47,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,28,Positive,Positive,32,3
+53,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,11,1
+65,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,10,6
+49,White,Married,T2,N1,IIB,Undifferentiated, anaplastic; Grade IV,Regional,28,Positive,Positive,12,3
+45,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,52,Negative,Negative,17,4
+59,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,22,Positive,Positive,5,1
+56,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,14,2
+49,White,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,117,Positive,Positive,5,4
+67,White,Widowed,T1,N3,IIIC,Poorly differentiated,3,Distant,15,Positive,Positive,15,14
+64,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,19,5
+43,Other,Single ,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,25,2
+53,White,Single ,T2,N3,IIIC,Moderately differentiated,2,Distant,40,Positive,Negative,24,23
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,16,1
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,15,1
+57,White,Married,T1,N1,IIA,Well differentiated,1,Regional,8,Positive,Positive,3,1
+65,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,35,Positive,Positive,8,4
+49,White,Divorced,T3,N1,IIIA,Poorly differentiated,3,Regional,65,Positive,Positive,22,1
+66,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,32,Positive,Positive,15,4
+61,White,Divorced,T3,N3,IIIC,Poorly differentiated,3,Regional,60,Positive,Positive,16,13
+40,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,7,2
+31,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,45,Positive,Positive,13,2
+53,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,21,1
+61,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,25,3
+62,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,29,Positive,Positive,24,2
+53,Black,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,23,Positive,Negative,15,6
+49,White,Separated,T1,N1,IIA,Moderately differentiated,2,Regional,3,Positive,Positive,11,1
+57,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,12,2
+54,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,1,1
+57,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,4,1
+66,White,Married,T1,N1,IIA,Well differentiated,1,Regional,12,Positive,Positive,2,1
+48,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,2,1
+50,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,19,2
+48,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,20,Positive,Positive,12,1
+60,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Negative,8,4
+52,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,4,1
+60,Other,Widowed,T1,N1,IIA,Well differentiated,1,Regional,18,Positive,Positive,26,2
+61,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,50,Positive,Positive,11,5
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,9,1
+61,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,30,Positive,Positive,12,11
+51,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,13,1
+67,White,Single ,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Negative,12,1
+51,Other,Married,T1,N3,IIIC,Poorly differentiated,3,Regional,19,Positive,Positive,31,12
+43,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,22,1
+60,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,27,2
+68,White,Married,T2,N1,IIB,Well differentiated,1,Regional,21,Positive,Positive,7,3
+66,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,90,Positive,Positive,20,20
+57,Black,Single ,T4,N3,IIIC,Poorly differentiated,3,Regional,15,Negative,Negative,17,17
+55,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Positive,20,4
+53,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,9,1
+43,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,55,Positive,Positive,22,22
+53,Black,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,14,4
+50,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,27,5
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,21,1
+44,Other,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,5,1
+66,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,1,1
+60,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,15,1
+60,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,37,2
+43,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,57,Positive,Positive,24,4
+58,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Positive,13,5
+39,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,6,1
+52,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,43,Negative,Negative,23,5
+52,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,2,1
+67,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,13,1
+64,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,11,1
+33,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,28,Positive,Positive,17,2
+69,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,9,1
+66,White,Widowed,T1,N1,IIA,Well differentiated,1,Regional,18,Positive,Positive,6,1
+68,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,14,2
+55,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,19,Positive,Positive,24,6
+44,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,9,Positive,Positive,24,2
+51,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,53,Positive,Positive,28,5
+67,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,25,8
+55,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,19,6
+51,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,18,2
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Positive,9,2
+48,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,80,Positive,Positive,22,3
+69,White,Married,T1,N1,IIA,Well differentiated,1,Regional,16,Positive,Positive,2,1
+50,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,18,2
+57,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,23,Negative,Positive,21,4
+69,White,Married,T1,N1,IIA,Well differentiated,1,Regional,12,Positive,Negative,13,2
+60,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,1,1
+67,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,17,3
+47,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,12,Positive,Positive,1,1
+45,Other,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,25,Positive,Positive,21,16
+68,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,18,Positive,Positive,15,2
+66,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,18,5
+67,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,16,1
+61,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,2,1
+49,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,70,Negative,Negative,16,14
+40,Black,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,25,2
+48,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,70,Positive,Negative,18,1
+62,White,Divorced,T3,N2,IIIA,Moderately differentiated,2,Regional,101,Positive,Negative,19,6
+62,Black,Divorced,T2,N2,IIIA,Poorly differentiated,3,Regional,40,Positive,Positive,12,7
+63,Black,Widowed,T2,N2,IIIA,Poorly differentiated,3,Regional,42,Positive,Positive,17,6
+64,White,Married,T1,N1,IIA,Well differentiated,1,Regional,12,Positive,Positive,15,3
+62,Black,Separated,T4,N3,IIIC,Undifferentiated, anaplastic; Grade IV,Regional,70,Positive,Positive,10,10
+55,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,10,5
+64,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,37,Positive,Positive,10,3
+61,White,Married,T1,N1,IIA,Well differentiated,1,Regional,9,Positive,Positive,5,1
+55,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,12,5
+41,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,100,Positive,Negative,28,23
+55,White,Married,T1,N1,IIA,Well differentiated,1,Regional,16,Positive,Positive,16,1
+46,White,Married,T1,N3,IIIC,Poorly differentiated,3,Regional,20,Positive,Positive,15,11
+65,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,25,Negative,Positive,18,1
+40,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,31,Positive,Positive,18,3
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,17,1
+59,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,37,Positive,Positive,20,3
+49,White,Married,T2,N1,IIB,Well differentiated,1,Regional,22,Positive,Positive,9,3
+56,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,4,1
+62,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,24,4
+59,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,19,5
+59,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,5,1
+68,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Negative,24,1
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,12,1
+61,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,47,Positive,Negative,39,1
+44,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,78,Positive,Positive,19,1
+58,Other,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,17,2
+59,White,Divorced,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,21,2
+63,White,Single ,T2,N1,IIB,Well differentiated,1,Regional,35,Positive,Positive,13,1
+68,White,Married,T2,N1,IIB,Well differentiated,1,Regional,27,Positive,Positive,14,1
+69,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,30,Positive,Negative,14,11
+60,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,12,Positive,Positive,18,7
+48,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Negative,14,4
+55,Black,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,32,Positive,Positive,12,3
+42,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,11,4
+67,White,Married,T2,N1,IIB,Well differentiated,1,Regional,35,Positive,Positive,7,2
+51,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,14,1
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,6,Positive,Positive,4,1
+47,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,17,Negative,Negative,15,1
+66,White,Widowed,T1,N1,IIA,Well differentiated,1,Regional,11,Positive,Positive,9,2
+63,Black,Widowed,T1,N1,IIA,Poorly differentiated,3,Regional,11,Positive,Positive,24,1
+49,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Negative,28,2
+55,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,4,2
+51,White,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,47,Positive,Positive,22,4
+57,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Negative,14,1
+47,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,39,Positive,Positive,29,1
+45,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,8,2
+48,White,Married,T3,N3,IIIC,Poorly differentiated,3,Distant,55,Positive,Positive,31,22
+66,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Negative,8,1
+65,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,4,4
+46,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,63,Positive,Positive,12,3
+50,White,Married,T1,N1,IIA,Well differentiated,1,Regional,11,Positive,Positive,21,2
+59,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,38,Negative,Negative,1,1
+62,Black,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Negative,13,5
+57,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,75,Positive,Positive,13,4
+39,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,95,Negative,Negative,14,3
+61,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,39,Positive,Positive,43,3
+58,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,27,7
+42,White,Married,T1,N3,IIIC,Moderately differentiated,2,Regional,12,Positive,Positive,16,11
+69,White,Married,T1,N1,IIA,Well differentiated,1,Regional,13,Positive,Positive,14,1
+47,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Positive,12,7
+58,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,110,Positive,Positive,38,2
+58,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,26,Positive,Negative,19,1
+48,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,17,5
+42,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,23,1
+64,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,14,Negative,Negative,5,1
+69,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Negative,9,1
+53,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,80,Positive,Positive,17,5
+53,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,8,2
+66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,15,1
+49,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,10,1
+66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,13,2
+50,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,24,Positive,Negative,23,9
+63,White,Widowed,T1,N2,IIIA,Moderately differentiated,2,Regional,19,Positive,Positive,20,4
+52,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,22,Positive,Positive,18,9
+47,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,18,3
+60,Black,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,35,Positive,Positive,11,4
+43,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,72,Negative,Negative,11,4
+49,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,22,Positive,Positive,17,11
+55,White,Married,T1,N3,IIIC,Poorly differentiated,3,Regional,14,Negative,Negative,15,15
+39,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,6,1
+63,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,12,Positive,Positive,15,1
+52,White,Widowed,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,9,2
+60,Black,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,120,Positive,Negative,7,1
+55,White,Married,T1,N1,IIA,Well differentiated,1,Regional,17,Positive,Positive,11,2
+55,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,72,Negative,Negative,14,13
+52,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,12,6
+48,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,50,Positive,Positive,25,23
+64,White,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,70,Positive,Positive,13,4
+48,White,Married,T1,N1,IIA,Well differentiated,1,Regional,7,Positive,Positive,11,2
+54,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,10,9
+57,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,12,Negative,Negative,22,1
+50,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,9,7
+56,White,Married,T1,N1,IIA,Well differentiated,1,Regional,16,Positive,Positive,11,1
+47,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,68,Positive,Positive,20,13
+49,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Negative,11,8
+38,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,15,1
+46,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,10,2
+57,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,25,Positive,Positive,9,2
+59,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,12,4
+61,White,Widowed,T2,N2,IIIA,Poorly differentiated,3,Regional,25,Positive,Positive,8,8
+46,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,7,1
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Negative,1,1
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,8,1
+59,White,Divorced,T2,N3,IIIC,Well differentiated,1,Distant,25,Positive,Positive,11,1
+49,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,75,Positive,Positive,3,1
+58,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,10,4
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,5,Positive,Positive,11,2
+49,Other,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,12,1
+58,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,11,3
+55,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Negative,25,1
+57,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,16,4
+37,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,12,1
+58,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,33,Negative,Negative,17,2
+45,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,37,Positive,Positive,13,2
+45,White,Divorced,T1,N1,IIA,Well differentiated,1,Regional,6,Positive,Positive,6,1
+62,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,16,2
+51,White,Divorced,T3,N3,IIIC,Poorly differentiated,3,Regional,65,Negative,Negative,14,14
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,17,1
+52,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,14,1
+42,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,70,Positive,Positive,15,7
+66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,18,2
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,31,3
+57,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,12,Positive,Positive,13,2
+36,White,Divorced,T3,N3,IIIC,Poorly differentiated,3,Regional,120,Negative,Negative,15,14
+41,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Positive,10,2
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,22,1
+53,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Negative,17,2
+40,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,100,Positive,Positive,11,1
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,26,Positive,Positive,22,2
+66,White,Married,T1,N1,IIA,Well differentiated,1,Regional,8,Positive,Positive,1,1
+52,White,Divorced,T1,N3,IIIC,Moderately differentiated,2,Regional,15,Positive,Positive,33,29
+68,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,56,Positive,Positive,17,1
+38,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,10,3
+55,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,13,3
+65,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,17,1
+46,White,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,65,Positive,Positive,21,6
+48,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,23,1
+55,White,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,45,Positive,Negative,8,7
+51,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,42,Positive,Positive,33,33
+58,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,45,Positive,Positive,14,4
+43,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,13,1
+51,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,13,2
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,3,3
+31,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,60,Positive,Negative,30,12
+47,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,26,Positive,Positive,13,3
+59,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,51,4
+59,White,Married,T1,N1,IIA,Well differentiated,1,Regional,13,Positive,Positive,35,2
+61,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,15,3
+62,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,19,1
+51,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,35,2
+56,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,54,Positive,Positive,21,1
+51,White,Divorced,T3,N1,IIIA,Moderately differentiated,2,Regional,74,Positive,Positive,13,2
+35,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,9,1
+58,Black,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,10,2
+63,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,26,Positive,Positive,28,9
+40,Black,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,1,1
+66,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,19,Positive,Positive,21,7
+43,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,8,4
+42,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,25,Positive,Negative,6,3
+57,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,9,1
+63,Black,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,22,Positive,Positive,11,6
+56,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,14,1
+69,Other,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,20,2
+58,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,21,1
+65,White,Married,T2,N1,IIB,Well differentiated,1,Regional,22,Positive,Positive,9,2
+32,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Negative,15,3
+45,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,32,Positive,Positive,21,2
+57,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,6,1
+52,White,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,2,1
+62,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Negative,34,9
+65,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,13,3
+63,White,Divorced,T2,N3,IIIC,Well differentiated,1,Regional,30,Positive,Positive,18,10
+38,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,80,Positive,Positive,8,3
+65,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,15,5
+40,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,53,Positive,Positive,13,5
+63,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,23,2
+60,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,11,3
+68,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Negative,11,3
+63,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,10,Positive,Positive,10,9
+42,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,14,1
+69,White,Widowed,T2,N3,IIIC,Moderately differentiated,2,Regional,24,Positive,Positive,15,13
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,13,1
+65,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,24,Negative,Negative,7,5
+60,White,Divorced,T2,N2,IIIA,Poorly differentiated,3,Regional,22,Negative,Negative,29,4
+45,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,125,Positive,Positive,18,9
+36,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,2,1
+51,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,8,1
+47,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,26,1
+53,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,2,1
+46,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,8,Positive,Positive,3,1
+43,White,Married,T4,N3,IIIC,Poorly differentiated,3,Distant,120,Negative,Negative,28,26
+60,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,24,2
+62,Black,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Negative,12,1
+67,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,42,Positive,Positive,6,1
+48,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Negative,Positive,3,1
+46,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,13,1
+60,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Negative,7,2
+53,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Negative,Negative,11,1
+52,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,1,1
+63,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,24,Positive,Positive,11,1
+62,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,59,Positive,Positive,7,2
+56,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Negative,18,3
+59,White,Divorced,T3,N1,IIIA,Moderately differentiated,2,Regional,52,Positive,Positive,13,3
+55,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,6,4
+66,White,Married,T1,N1,IIA,Well differentiated,1,Regional,14,Positive,Positive,13,1
+44,Black,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,70,Positive,Positive,22,6
+65,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,17,2
+55,White,Divorced,T3,N1,IIIA,Poorly differentiated,3,Regional,50,Positive,Positive,42,1
+55,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,13,1
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,42,Positive,Positive,18,2
+43,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,1,Positive,Positive,12,1
+54,White,Divorced,T2,N2,IIIA,Well differentiated,1,Regional,31,Positive,Positive,16,4
+68,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,25,Positive,Positive,21,9
+67,White,Married,T1,N3,IIIC,Poorly differentiated,3,Regional,14,Positive,Negative,26,22
+59,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Positive,12,2
+45,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,14,1
+56,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,4,Positive,Positive,1,1
+51,White,Married,T2,N1,IIB,Well differentiated,1,Regional,35,Positive,Positive,15,2
+40,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,3,2
+46,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Negative,6,3
+52,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,12,3
+54,White,Married,T3,N3,IIIC,Poorly differentiated,3,Distant,83,Positive,Positive,24,21
+66,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,51,Positive,Positive,10,5
+47,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,35,Positive,Positive,13,11
+62,White,Married,T4,N3,IIIC,Moderately differentiated,2,Distant,40,Positive,Positive,22,11
+48,White,Married,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,15,13
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,11,1
+52,White,Single ,T1,N2,IIIA,Moderately differentiated,2,Regional,18,Positive,Positive,8,4
+48,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,16,2
+46,White,Divorced,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,15,3
+50,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,3,1
+52,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,70,Positive,Negative,18,9
+63,White,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,12,1
+52,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,70,Positive,Positive,27,2
+40,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,19,3
+65,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,33,1
+57,White,Married,T2,N3,IIIC,Well differentiated,1,Regional,21,Positive,Positive,21,14
+51,Other,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,40,Positive,Positive,17,15
+58,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,1,1
+59,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,75,Positive,Positive,20,2
+59,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,24,Positive,Positive,12,2
+44,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,33,Positive,Negative,19,2
+47,Black,Married,T1,N1,IIA,Moderately differentiated,2,Regional,5,Positive,Positive,18,1
+59,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,45,Positive,Positive,15,6
+54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,34,Positive,Positive,20,1
+67,White,Widowed,T3,N1,IIIA,Poorly differentiated,3,Regional,58,Positive,Negative,8,1
+59,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Negative,Negative,9,1
+54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,12,3
+66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Negative,9,2
+53,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,5,2
+44,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,13,1
+55,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,43,Positive,Positive,13,3
+69,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,20,1
+45,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,18,2
+68,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,85,Positive,Positive,15,1
+62,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,8,Positive,Positive,4,2
+48,Other,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,13,7
+52,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,48,Positive,Positive,5,1
+56,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Negative,12,4
+41,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Positive,10,2
+50,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Positive,10,8
+46,Black,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,19,Negative,Negative,17,4
+57,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,20,1
+68,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,1,1
+50,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,13,1
+61,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,48,Positive,Positive,12,5
+45,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,13,1
+65,White,Widowed,T3,N2,IIIA,Moderately differentiated,2,Regional,100,Positive,Negative,14,9
+57,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,57,Positive,Positive,14,3
+52,White,Widowed,T1,N2,IIIA,Poorly differentiated,3,Regional,14,Positive,Positive,18,5
+64,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,42,Positive,Positive,5,4
+65,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,31,Positive,Positive,17,2
+48,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,15,1
+50,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,16,7
+47,White,Married,T1,N1,IIA,Well differentiated,1,Regional,16,Positive,Positive,3,1
+46,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,1,1
+67,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,62,Positive,Positive,13,3
+69,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,9,Positive,Positive,16,1
+63,White,Married,T2,N1,IIB,Well differentiated,1,Regional,35,Positive,Positive,15,1
+47,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,15,1
+49,White,Married,T3,N3,IIIC,Poorly differentiated,3,Distant,60,Positive,Negative,5,3
+46,White,Married,T3,N3,IIIC,Moderately differentiated,2,Distant,60,Positive,Negative,14,11
+46,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,80,Negative,Negative,26,2
+38,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,2,Negative,Negative,24,2
+40,White,Married,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,2,1
+65,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Negative,16,4
+49,Other,Divorced,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,27,1
+63,White,Divorced,T1,N1,IIA,Well differentiated,1,Regional,18,Positive,Positive,10,3
+59,White,Divorced,T2,N1,IIB,Well differentiated,1,Regional,33,Positive,Positive,8,3
+45,White,Married,T1,N1,IIA,Well differentiated,1,Regional,8,Positive,Positive,2,1
+54,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,1,1
+55,White,Widowed,T3,N2,IIIA,Poorly differentiated,3,Regional,56,Positive,Positive,28,6
+56,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,18,Negative,Negative,13,2
+44,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,13,1
+45,Black,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,57,Positive,Positive,20,20
+68,White,Married,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,3,1
+59,White,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,22,2
+63,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,14,1
+50,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,15,1
+66,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,11,4
+63,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,41,Positive,Negative,14,4
+51,White,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,28,Positive,Negative,18,18
+55,White,Divorced,T2,N2,IIIA,Poorly differentiated,3,Regional,30,Positive,Positive,43,7
+53,White,Divorced,T1,N2,IIIA,Poorly differentiated,3,Regional,15,Positive,Positive,14,8
+68,Black,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,50,Positive,Positive,11,4
+56,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Negative,15,1
+44,White,Married,T1,N1,IIA,Well differentiated,1,Regional,17,Positive,Positive,16,15
+51,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,13,1
+63,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,21,2
+39,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,20,Negative,Negative,14,1
+53,Other,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,23,2
+61,White,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Positive,24,3
+69,White,Widowed,T2,N3,IIIC,Well differentiated,1,Regional,33,Positive,Positive,20,19
+56,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,26,1
+51,Other,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,14,1
+69,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,10,1
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Negative,6,1
+42,Black,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,5,1
+67,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,20,1
+34,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,20,3
+60,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,8,1
+46,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,75,Positive,Positive,11,2
+52,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,10,3
+47,White,Separated,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,3,1
+52,White,Single ,T2,N3,IIIC,Well differentiated,1,Regional,40,Positive,Positive,16,13
+50,White,Single ,T2,N3,IIIC,Poorly differentiated,3,Regional,25,Positive,Positive,17,12
+68,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,21,1
+69,White,Widowed,T1,N3,IIIC,Moderately differentiated,2,Regional,13,Positive,Positive,17,13
+60,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,60,Positive,Positive,21,16
+53,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Negative,Negative,16,1
+69,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Positive,17,5
+44,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,17,Positive,Negative,5,1
+42,Other,Married,T3,N2,IIIA,Well differentiated,1,Regional,70,Positive,Positive,9,4
+55,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,17,1
+49,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,20,1
+49,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,29,2
+40,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Negative,16,2
+54,Black,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,17,2
+64,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,18,5
+62,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,19,4
+48,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,27,2
+45,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,20,2
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,26,Positive,Positive,10,3
+51,White,Married,T1,N1,IIA,Well differentiated,1,Regional,8,Positive,Positive,11,1
+69,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,5,1
+41,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,140,Positive,Positive,41,15
+69,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,40,Positive,Negative,47,23
+62,White,Single ,T3,N2,IIIA,Poorly differentiated,3,Regional,70,Positive,Positive,23,9
+51,White,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,30,Positive,Positive,37,4
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,5,1
+60,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,28,Positive,Positive,26,12
+50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,27,2
+67,White,Widowed,T2,N1,IIB,Well differentiated,1,Regional,27,Positive,Positive,1,1
+68,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,15,2
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,14,3
+46,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,14,2
+42,White,Single ,T3,N3,IIIC,Moderately differentiated,2,Distant,75,Positive,Positive,16,13
+39,White,Married,T2,N1,IIB,Well differentiated,1,Regional,25,Positive,Positive,2,2
+46,Black,Single ,T3,N2,IIIA,Poorly differentiated,3,Regional,100,Negative,Negative,5,5
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,18,1
+66,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Positive,10,1
+41,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,19,1
+69,White,Widowed,T4,N3,IIIC,Poorly differentiated,3,Regional,22,Negative,Negative,19,16
+68,White,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,26,Positive,Positive,8,2
+31,Other,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,18,2
+53,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,38,Positive,Positive,5,3
+65,White,Married,T1,N2,IIIA,Well differentiated,1,Regional,10,Positive,Positive,16,5
+49,Black,Single ,T3,N1,IIIA,Poorly differentiated,3,Regional,70,Positive,Positive,11,1
+68,Black,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,50,Positive,Positive,11,11
+40,White,Separated,T2,N3,IIIC,Poorly differentiated,3,Regional,21,Negative,Negative,16,16
+51,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,18,2
+46,Other,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,130,Positive,Positive,7,5
+46,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,18,2
+54,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,25,Negative,Negative,12,1
+56,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,48,Positive,Positive,3,1
+56,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,35,Positive,Positive,26,5
+65,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,1,1
+67,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,120,Positive,Positive,9,6
+43,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,27,2
+62,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,1,1
+53,White,Married,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,4,1
+45,Other,Separated,T3,N1,IIIA,Poorly differentiated,3,Regional,58,Negative,Negative,26,2
+53,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,30,Positive,Positive,21,13
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Positive,7,1
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Positive,10,1
+56,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,6,Positive,Positive,16,1
+49,White,Widowed,T3,N1,IIIA,Poorly differentiated,3,Regional,100,Positive,Positive,3,3
+37,White,Separated,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,5,1
+49,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,15,2
+53,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,3,1
+67,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Negative,19,1
+49,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,32,Positive,Positive,20,11
+61,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Negative,19,1
+48,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,1,1
+54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,32,3
+47,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,21,Positive,Negative,13,2
+67,White,Married,T2,N1,IIB,Well differentiated,1,Regional,21,Positive,Positive,14,1
+51,White,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,28,Negative,Positive,42,21
+60,White,Single ,T2,N3,IIIC,Moderately differentiated,2,Distant,40,Positive,Positive,16,16
+54,White,Married,T2,N2,IIIA,Well differentiated,1,Regional,31,Positive,Positive,11,6
+49,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,32,Negative,Positive,5,1
+51,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,4,1
+59,White,Married,T4,N2,IIIB,Poorly differentiated,3,Regional,78,Positive,Positive,12,8
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,4,1
+48,White,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,30,Positive,Positive,13,5
+53,Other,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,21,Positive,Positive,29,17
+63,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Positive,19,1
+58,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,28,2
+55,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,24,Positive,Positive,11,6
+43,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,40,Positive,Positive,14,5
+54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,22,3
+63,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,10,1
+63,White,Divorced,T3,N3,IIIC,Moderately differentiated,2,Regional,65,Positive,Positive,37,37
+41,Other,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,14,1
+49,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,10,5
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Negative,Negative,15,1
+49,Black,Single ,T3,N2,IIIA,Poorly differentiated,3,Regional,88,Positive,Positive,22,9
+59,White,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,20,1
+61,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,9,Positive,Positive,10,1
+39,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Positive,3,1
+43,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,17,7
+67,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,20,Positive,Positive,8,3
+44,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,8,2
+53,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,26,Positive,Positive,23,2
+59,White,Married,T1,N1,IIA,Well differentiated,1,Regional,14,Positive,Positive,2,1
+60,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,17,Positive,Positive,13,1
+40,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,16,Negative,Negative,19,2
+51,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,14,Positive,Positive,14,1
+49,Other,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,25,Positive,Positive,23,5
+68,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,45,Positive,Positive,5,4
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,9,Positive,Negative,5,2
+62,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,13,2
+45,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,6,1
+51,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,16,2
+59,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,3,1
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,17,1
+59,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,6,3
+66,Other,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,6,Positive,Negative,22,6
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,1,Positive,Positive,31,1
+58,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,1,1
+48,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,25,Positive,Positive,11,3
+55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,2,1
+63,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,3,1
+54,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,22,Positive,Positive,17,1
+33,White,Single ,T3,N1,IIIA,Moderately differentiated,2,Regional,75,Positive,Positive,12,3
+36,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,32,Positive,Positive,5,1
+61,Black,Married,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Positive,2,1
+44,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,41,Positive,Positive,17,2
+47,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,100,Positive,Positive,16,1
+49,White,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,18,Positive,Positive,19,7
+42,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,12,1
+66,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,50,Positive,Positive,8,6
+66,White,Married,T3,N2,IIIA,Poorly differentiated,3,Regional,60,Positive,Negative,6,6
+46,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,17,2
+50,White,Married,T1,N1,IIA,Well differentiated,1,Regional,19,Positive,Positive,12,1
+59,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,19,9
+46,White,Single ,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Positive,14,2
+64,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,11,Positive,Positive,16,2
+52,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,11,9
+44,White,Divorced,T1,N3,IIIC,Poorly differentiated,3,Regional,20,Positive,Positive,13,10
+58,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,11,7
+56,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Positive,12,2
+65,White,Married,T1,N1,IIA,Well differentiated,1,Regional,15,Positive,Positive,4,1
+64,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,76,Positive,Positive,16,3
+41,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Negative,21,3
+53,White,Separated,T2,N2,IIIA,Poorly differentiated,3,Regional,25,Negative,Negative,10,4
+41,Other,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,25,Positive,Positive,17,8
+45,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,8,1
+50,Black,Married,T1,N3,IIIC,Moderately differentiated,2,Regional,17,Positive,Positive,17,15
+42,White,Divorced,T1,N1,IIA,Well differentiated,1,Regional,9,Positive,Positive,10,2
+42,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,12,Positive,Positive,9,2
+65,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,18,1
+53,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,27,Positive,Positive,25,5
+58,White,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Negative,6,3
+33,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,57,Positive,Positive,16,1
+47,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,20,Positive,Positive,15,7
+41,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,33,Positive,Positive,12,3
+48,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,16,8
+65,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Positive,4,1
+56,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,17,Positive,Positive,25,8
+41,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,38,Positive,Positive,25,3
+54,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,16,1
+50,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,30,Positive,Positive,18,2
+66,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,8,3
+47,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,13,Positive,Positive,5,1
+53,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,27,Positive,Positive,14,4
+49,Black,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Positive,17,2
+58,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,18,1
+62,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,45,Positive,Negative,7,1
+49,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,10,Positive,Positive,20,1
+59,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,8,2
+62,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,15,6
+52,White,Married,T4,N1,IIIB,Moderately differentiated,2,Regional,15,Positive,Positive,6,6
+61,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,60,Positive,Positive,21,1
+60,White,Widowed,T1,N1,IIA,Well differentiated,1,Regional,14,Positive,Positive,23,1
+52,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,25,Positive,Positive,31,14
+47,Black,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,5,Positive,Positive,27,1
+33,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,40,Negative,Negative,19,17
+55,White,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Positive,1,1
+57,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,16,Positive,Negative,19,2
+55,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,21,Positive,Positive,6,1
+61,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,11,8
+52,White,Married,T2,N2,IIIA,Well differentiated,1,Regional,24,Positive,Positive,11,4
+63,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,22,Positive,Positive,31,17
+53,White,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,17,Positive,Negative,12,3
+47,White,Married,T3,N1,IIIA,Poorly differentiated,3,Regional,51,Positive,Negative,17,1
+51,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,22,1
+63,White,Married,T1,N1,IIA,Well differentiated,1,Regional,9,Positive,Positive,9,1
+64,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,20,Negative,Negative,19,1
+48,White,Single ,T3,N3,IIIC,Poorly differentiated,3,Distant,60,Positive,Positive,17,13
+48,Black,Married,T2,N3,IIIC,Poorly differentiated,3,Distant,28,Negative,Negative,19,2
+42,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,20,2
+48,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,65,Positive,Positive,11,5
+55,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,62,Positive,Positive,9,3
+53,White,Divorced,T4,N3,IIIC,Moderately differentiated,2,Regional,28,Positive,Positive,33,27
+46,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Positive,21,2
+55,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,28,2
+57,Other,Married,T2,N2,IIIA,Well differentiated,1,Regional,21,Positive,Positive,17,6
+54,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,13,2
+66,Black,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Negative,11,1
+54,White,Married,T1,N1,IIA,Well differentiated,1,Regional,11,Positive,Positive,1,1
+59,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,29,2
+67,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,11,2
+48,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,37,Positive,Positive,24,3
+40,White,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,64,Positive,Positive,11,8
+60,White,Married,T4,N1,IIIB,Moderately differentiated,2,Regional,70,Positive,Positive,14,1
+69,White,Widowed,T2,N1,IIB,Moderately differentiated,2,Regional,40,Positive,Positive,34,2
+58,White,Married,T2,N1,IIB,Well differentiated,1,Regional,25,Positive,Positive,16,1
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,2,1
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,13,Positive,Negative,12,1
+60,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,19,1
+51,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,3,1
+45,Black,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Positive,12,1
+63,White,Separated,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,24,1
+56,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,14,2
+62,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,40,Positive,Negative,12,3
+46,Black,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,12,2
+51,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,12,1
+53,White,Married,T2,N1,IIB,Well differentiated,1,Regional,40,Positive,Positive,26,2
+53,White,Divorced,T3,N1,IIIA,Moderately differentiated,2,Regional,100,Positive,Negative,20,1
+55,White,Married,T2,N2,IIIA,Well differentiated,1,Regional,40,Positive,Positive,9,4
+65,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,110,Positive,Positive,19,2
+50,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,38,Positive,Positive,20,2
+49,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,15,2
+49,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,13,1
+34,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,11,1
+45,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,15,Positive,Positive,16,6
+45,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,26,2
+49,Black,Separated,T1,N3,IIIC,Well differentiated,1,Distant,12,Positive,Positive,16,10
+40,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,20,3
+66,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,21,3
+64,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,6,Positive,Positive,15,2
+66,Black,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,35,Positive,Positive,20,7
+47,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,50,Positive,Positive,18,1
+47,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,21,1
+53,White,Married,T1,N1,IIA,Well differentiated,1,Regional,11,Positive,Positive,12,3
+47,White,Separated,T1,N1,IIA,Well differentiated,1,Regional,2,Positive,Positive,25,1
+55,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,11,1
+56,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,13,2
+44,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,27,Positive,Positive,23,4
+62,White,Divorced,T1,N2,IIIA,Moderately differentiated,2,Regional,13,Positive,Positive,13,4
+48,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,34,Positive,Positive,15,5
+62,White,Widowed,T1,N1,IIA,Poorly differentiated,3,Regional,18,Positive,Positive,7,3
+46,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,4,1
+67,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,42,Positive,Positive,5,5
+63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,9,1
+62,White,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,75,Positive,Positive,16,7
+53,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,18,3
+64,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,25,2
+49,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,3,1
+51,White,Married,T1,N2,IIIA,Moderately differentiated,2,Regional,13,Positive,Positive,17,4
+57,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,2,1
+52,White,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,34,Positive,Positive,34,7
+62,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,2,1
+44,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,14,Positive,Positive,19,1
