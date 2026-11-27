@@ -1,4 +1,4 @@
-Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tumor Size,Estrogen Status,Progesterone Status,Regional Node Examined,Reginol Node Positive
+Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tumor Size,Estrogen Status,Progesterone Status,Regional Node Examined,Regional Node Positive
 61,White,Widowed,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,26,2
 52,White,Married,T2,N1,IIB,Well differentiated,1,Regional,34,Positive,Positive,2,1
 50,White,Single ,T1,N1,IIA,Well differentiated,1,Regional,12,Positive,Positive,9,2
@@ -252,7 +252,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 51,Black,Married,T1,N1,IIA,Moderately differentiated,2,Regional,10,Positive,Positive,20,1
 49,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,35,Positive,Positive,24,3
 48,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,19,3
-67,White,Married,T2,N3,IIIC,Undifferentiated, anaplastic; Grade IV,Regional,21,Positive,Positive,25,17
+67,White,Married,T2,N3,IIIC,Undifferentiated,4,Regional,21,Positive,Positive,25,17
 63,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,25,1
 49,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,18,Positive,Positive,23,2
 33,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Negative,14,2
@@ -409,7 +409,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 64,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,83,Positive,Positive,8,2
 56,White,Married,T2,N3,IIIC,Poorly differentiated,3,Distant,23,Negative,Negative,24,24
 52,White,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,35,Positive,Negative,15,6
-45,White,Married,T1,N1,IIA,Undifferentiated, anaplastic; Grade IV,Regional,13,Positive,Positive,5,1
+45,White,Married,T1,N1,IIA,Undifferentiated,4,Regional,13,Positive,Positive,5,1
 58,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Negative,11,2
 45,White,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,30,Positive,Positive,27,11
 53,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,100,Positive,Positive,8,1
@@ -637,7 +637,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 59,White,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,35,Positive,Positive,17,14
 64,White,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,13,Positive,Positive,13,5
 47,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,12,3
-69,White,Married,T1,N1,IIA,Undifferentiated, anaplastic; Grade IV,Regional,20,Positive,Positive,17,3
+69,White,Married,T1,N1,IIA,Undifferentiated,4,Regional,20,Positive,Positive,17,3
 53,Black,Single ,T3,N2,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,14,5
 57,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,51,Positive,Positive,26,17
 45,White,Single ,T1,N2,IIIA,Poorly differentiated,3,Regional,20,Negative,Negative,17,5
@@ -730,7 +730,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 62,Other,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Negative,Negative,33,1
 61,White,Divorced,T3,N1,IIIA,Moderately differentiated,2,Regional,90,Positive,Positive,1,1
 37,White,Single ,T3,N1,IIIA,Moderately differentiated,2,Regional,51,Positive,Positive,22,3
-54,White,Divorced,T1,N1,IIA,Undifferentiated, anaplastic; Grade IV,Regional,16,Positive,Negative,19,2
+54,White,Divorced,T1,N1,IIA,Undifferentiated,4,Regional,16,Positive,Negative,19,2
 45,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,11,Positive,Positive,18,3
 43,Black,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,25,19
 50,Black,Single ,T3,N3,IIIC,Moderately differentiated,2,Regional,80,Positive,Positive,19,15
@@ -991,7 +991,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 59,Black,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,40,Positive,Positive,19,6
 49,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,10,2
 44,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Positive,5,1
-37,Black,Married,T3,N1,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,60,Positive,Positive,5,2
+37,Black,Married,T3,N1,IIIA,Undifferentiated,4,Regional,60,Positive,Positive,5,2
 56,Other,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,26,Positive,Negative,12,2
 48,Other,Divorced,T1,N1,IIA,Well differentiated,1,Regional,20,Positive,Positive,1,1
 69,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,30,Positive,Positive,23,22
@@ -1004,7 +1004,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 35,Other,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,85,Positive,Positive,5,2
 51,White,Divorced,T2,N1,IIB,Well differentiated,1,Regional,27,Positive,Positive,20,1
 60,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,10,1
-40,White,Single ,T3,N1,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,52,Positive,Positive,11,9
+40,White,Single ,T3,N1,IIIA,Undifferentiated,4,Regional,52,Positive,Positive,11,9
 59,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,3,1
 43,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,4,3
 67,White,Widowed,T1,N3,IIIC,Moderately differentiated,2,Regional,10,Positive,Positive,29,13
@@ -1194,7 +1194,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 68,White,Married,T2,N2,IIIA,Well differentiated,1,Regional,42,Positive,Positive,25,5
 57,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,35,Positive,Positive,9,4
 38,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,22,Positive,Positive,13,7
-50,White,Married,T3,N1,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,55,Positive,Positive,12,1
+50,White,Married,T3,N1,IIIA,Undifferentiated,4,Regional,55,Positive,Positive,12,1
 44,Other,Married,T2,N2,IIIA,Well differentiated,1,Regional,25,Positive,Positive,11,5
 62,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,9,Positive,Positive,1,1
 61,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Positive,Positive,14,3
@@ -1453,7 +1453,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 57,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,80,Positive,Negative,16,5
 67,White,Married,T1,N3,IIIC,Moderately differentiated,2,Regional,10,Positive,Positive,19,19
 62,White,Widowed,T3,N3,IIIC,Poorly differentiated,3,Regional,59,Positive,Positive,18,12
-52,Black,Single ,T3,N3,IIIC,Undifferentiated, anaplastic; Grade IV,Regional,100,Positive,Positive,23,17
+52,Black,Single ,T3,N3,IIIC,Undifferentiated,4,Regional,100,Positive,Positive,23,17
 60,White,Single ,T2,N1,IIB,Well differentiated,1,Regional,38,Positive,Positive,9,3
 56,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,23,1
 65,White,Widowed,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,18,6
@@ -1492,7 +1492,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 68,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,14,Positive,Positive,6,2
 66,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,37,Positive,Positive,7,1
 48,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,90,Positive,Positive,7,1
-43,White,Married,T3,N2,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,75,Negative,Negative,10,5
+43,White,Married,T3,N2,IIIA,Undifferentiated,4,Regional,75,Negative,Negative,10,5
 43,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,13,Positive,Positive,11,1
 41,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,19,Positive,Positive,15,1
 64,White,Widowed,T1,N1,IIA,Well differentiated,1,Regional,17,Positive,Positive,1,1
@@ -1506,7 +1506,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 50,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,39,3
 61,Other,Married,T1,N1,IIA,Moderately differentiated,2,Regional,15,Positive,Positive,3,1
 58,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,24,Positive,Positive,15,2
-57,White,Married,T1,N1,IIA,Undifferentiated, anaplastic; Grade IV,Regional,18,Positive,Positive,5,1
+57,White,Married,T1,N1,IIA,Undifferentiated,4,Regional,18,Positive,Positive,5,1
 48,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Positive,22,4
 64,White,Divorced,T3,N1,IIIA,Poorly differentiated,3,Regional,60,Positive,Negative,21,2
 54,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,31,Negative,Negative,14,1
@@ -1525,7 +1525,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 56,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,20,Positive,Positive,13,1
 69,White,Married,T1,N1,IIA,Well differentiated,1,Regional,18,Positive,Positive,4,1
 69,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,23,Positive,Positive,15,2
-58,White,Single ,T1,N2,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,19,Negative,Negative,47,7
+58,White,Single ,T1,N2,IIIA,Undifferentiated,4,Regional,19,Negative,Negative,47,7
 51,Other,Divorced,T2,N2,IIIA,Moderately differentiated,2,Regional,23,Positive,Positive,15,5
 45,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,8,Positive,Positive,23,1
 54,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,23,7
@@ -1901,7 +1901,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 44,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,12,1
 60,White,Married,T1,N3,IIIC,Moderately differentiated,2,Regional,12,Positive,Positive,23,20
 61,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,28,Positive,Positive,6,1
-59,White,Single ,T2,N2,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,40,Negative,Negative,10,9
+59,White,Single ,T2,N2,IIIA,Undifferentiated,4,Regional,40,Negative,Negative,10,9
 59,White,Married,T2,N3,IIIC,Poorly differentiated,3,Regional,45,Positive,Positive,23,18
 62,White,Single ,T2,N2,IIIA,Moderately differentiated,2,Regional,21,Positive,Positive,20,5
 39,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,13,2
@@ -2056,7 +2056,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 66,White,Separated,T1,N1,IIA,Well differentiated,1,Regional,9,Positive,Positive,1,1
 37,Black,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,16,Positive,Positive,17,1
 44,White,Divorced,T2,N1,IIB,Poorly differentiated,3,Regional,32,Positive,Positive,4,3
-39,White,Single ,T3,N2,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,70,Positive,Positive,14,4
+39,White,Single ,T3,N2,IIIA,Undifferentiated,4,Regional,70,Positive,Positive,14,4
 66,White,Married,T1,N1,IIA,Well differentiated,1,Regional,10,Positive,Positive,13,3
 56,White,Divorced,T4,N2,IIIB,Moderately differentiated,2,Regional,35,Positive,Positive,6,5
 56,Other,Married,T2,N1,IIB,Poorly differentiated,3,Regional,50,Negative,Negative,20,3
@@ -2104,7 +2104,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 61,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,60,Positive,Negative,14,3
 62,White,Married,T1,N2,IIIA,Poorly differentiated,3,Regional,15,Positive,Positive,21,4
 53,White,Divorced,T3,N3,IIIC,Poorly differentiated,3,Regional,100,Positive,Positive,16,15
-69,White,Widowed,T2,N3,IIIC,Undifferentiated, anaplastic; Grade IV,Regional,28,Positive,Positive,14,13
+69,White,Widowed,T2,N3,IIIC,Undifferentiated,4,Regional,28,Positive,Positive,14,13
 64,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,12,Positive,Positive,13,2
 41,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,31,Positive,Positive,17,1
 46,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,10,2
@@ -2538,7 +2538,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 55,Black,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Negative,18,1
 45,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,25,Positive,Positive,24,6
 67,White,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,21,Positive,Positive,29,21
-38,White,Married,T3,N1,IIIA,Undifferentiated, anaplastic; Grade IV,Regional,70,Positive,Positive,10,1
+38,White,Married,T3,N1,IIIA,Undifferentiated,4,Regional,70,Positive,Positive,10,1
 54,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,51,Positive,Positive,6,5
 52,White,Single ,T2,N1,IIB,Moderately differentiated,2,Regional,27,Positive,Positive,20,2
 56,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,4,1
@@ -3127,7 +3127,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 54,White,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,35,Positive,Positive,28,7
 55,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,8,1
 61,White,Married,T2,N1,IIB,Well differentiated,1,Regional,21,Positive,Positive,17,1
-43,White,Married,T4,N3,IIIC,Undifferentiated, anaplastic; Grade IV,Regional,59,Negative,Positive,16,10
+43,White,Married,T4,N3,IIIC,Undifferentiated,4,Regional,59,Negative,Positive,16,10
 35,Other,Married,T2,N2,IIIA,Poorly differentiated,3,Regional,21,Positive,Positive,11,5
 64,White,Married,T2,N1,IIB,Well differentiated,1,Regional,35,Positive,Negative,9,1
 39,White,Married,T3,N3,IIIC,Well differentiated,1,Regional,80,Positive,Positive,15,10
